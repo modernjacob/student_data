@@ -1,3 +1,7 @@
+// Student Object Data 
+// Author: Jacob Huckleberry
+// CSC372 Programming II
+
 package Project_Portfolio;
 import java.util.Scanner;
 import java.io.FileNotFoundException;
